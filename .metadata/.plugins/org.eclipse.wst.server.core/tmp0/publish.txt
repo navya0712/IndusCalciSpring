@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun Dec 01 09:57:45 EST 2024
+org.eclipse.jst.j2ee.server\:IndusStudentJPA=WEB-INF/lib/IndusStudentJPA-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Navya\ Bade\\.m2\\repository\\org\\springframework\\spring-web\\6.1.12\\spring-web-6.1.12.jar=WEB-INF/lib/spring-web-6.1.12.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Navya\ Bade\\.m2\\repository\\org\\springframework\\spring-web\\6.1.14\\spring-web-6.1.14.jar=WEB-INF/lib/spring-web-6.1.14.jar

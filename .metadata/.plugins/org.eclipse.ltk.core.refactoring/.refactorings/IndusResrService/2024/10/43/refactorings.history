@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ApplicationInitializer.java&apos; to &apos;IndusStudentDaoRestService/src/main/java/com.indus.training.core.config&apos;&#x0D;&#x0A;- Original project: &apos;IndusResrService&apos;&#x0D;&#x0A;- Destination element: &apos;IndusStudentDaoRestService/src/main/java/com.indus.training.core.config&apos;&#x0D;&#x0A;- Original element: &apos;ApplicationInitializer.java&apos;" description="Copy file" destination="=IndusStudentDaoRestService/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.core.config" element1="src/main/java/com/indus/training/core/config/ApplicationInitializer.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1729951541618" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=IndusCalciSpring/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.core.svc{TestCalci.java[TestCalci" modifiers="1" timestamp="1728354091710"/>
+    <typeInfo handle="=IndusCalciSpring/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.core.impl{Calci.java[Calci" modifiers="1" timestamp="1728349551142"/>
+    <typeInfo handle="=IndusStudentJPA/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.persist.impl{StudentDaoImpl.java[StudentDaoImpl" modifiers="1" timestamp="1727736483824"/>
+    <typeInfo handle="=IndusCustomeBeanAnnotation/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.core.impl{MyBean.java[MyBean" modifiers="1" timestamp="1728593421975"/>
+    <typeInfo handle="=IndusJsonXmlConverter/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.core.service{StudentService.java[StudentService" modifiers="1" timestamp="1729176573089"/>
+    <typeInfo handle="=IndusJAXB/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.core.svc{IConverter.java[IConverter" modifiers="513" timestamp="1729036951307"/>
+    <typeInfo handle="=IndusSpringBootDataJPA/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.service{StudentService.java[StudentService" modifiers="1" timestamp="1729208005771"/>
+    <typeInfo handle="=IndusCalciRestServiceRestTemplate/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indus.training.core.controller{CalciController.java[CalciController" modifiers="1" timestamp="1729902647195"/>
+</typeInfoHistroy>

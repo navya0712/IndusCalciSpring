@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="jsonconverter" class="com.indus.training.core.impl.JsonConverter">
+	</bean>
+	<bean id="xmlconverter" class="com.indus.training.core.impl.XmlConverter">
+	</bean>
+	<bean id="objectMapper" class="com.fasterxml.jackson.databind.ObjectMapper" />
+
+	<bean id="jsonConverterUsingJackson"
+		class="com.indus.training.core.impl.JsonConverterUsingJackson">
+		<constructor-arg ref="objectMapper" />
+	</bean>
+	<bean id="xmlMapper"
+		class="com.fasterxml.jackson.dataformat.xml.XmlMapper" />
+	<bean id="xmlConverterUsingJackson"
+		class="com.indus.training.core.impl.XmlConverterUsingJackson">
+		<constructor-arg ref="xmlMapper" />
+	</bean>
+	<bean id="studentService"
+		class="com.indus.training.core.service.StudentService">
+		<constructor-arg ref="xmlConverterUsingJackson" />
+	</bean>
+
+</beans>

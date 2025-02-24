@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v11.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v11.0 Server at localhost" name="Tomcat v11.0 Server at localhost" runtime-id="apache-tomcat-11.0.0-M22" server-type="org.eclipse.jst.server.tomcat.110" server-type-id="org.eclipse.jst.server.tomcat.110" start-timeout="60" stop-timeout="15" testEnvironment="true" timestamp="13">
+    <list key="modules" value0="ResumeWebApp::org.eclipse.jst.jee.server:ResumeWebApp::jst.web::2.5" value1="IndusCalciWebApp::org.eclipse.jst.jee.server:IndusCalciWebApp::jst.web::2.5" value2="IndusStudentWebApp::org.eclipse.jst.jee.server:IndusStudentWebApp::jst.web::2.5" value3="IndusResrService::org.eclipse.jst.jee.server:IndusResrService::jst.web::2.5" value4="IndusStudentDaoRestService::org.eclipse.jst.jee.server:IndusStudentDaoRestService::jst.web::2.5" value5="IndusCalciRestServiceSpringBoot::org.eclipse.jst.jee.server:IndusCalciRestServiceSpringBoot::jst.web::6.0"/>
+  </server>
+</servers>
